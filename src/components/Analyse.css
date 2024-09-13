@@ -1,0 +1,68 @@
+
+    .opt button{
+    width: 70%;
+    height: 45px;
+    margin: 10px;
+    background-color:aliceblue;
+    cursor: pointer;
+    font-size: 18px;
+    border-radius: 5px;
+    }
+    .sel button{
+        width: 70%;
+        height: 45px;
+        margin: 10px;
+        font-size: 18px;
+        background-color:red;
+        cursor: pointer;
+        border-radius: 5px;
+
+    }
+    .score{
+    font-family: sans-serif;
+    font-weight: 600;
+    font-size: 20px;
+    text-align: right;
+    margin: 40px;
+    }
+    .green button{
+        width: 70%;
+        height: 45px;
+        margin: 10px;
+        font-size: 18px;
+        background-color: green;
+        cursor: pointer;
+        border-radius: 5px;
+    }
+    @media(max-width: 650px) {
+        .sel button{
+            height: 35px;
+            border-radius: 4px;
+        }
+        .opt button{
+            height:35px;
+            border-radius: 4px;
+        } 
+        .green button{
+            height:35px;
+            border-radius: 4px;
+        }
+    }
+@media(max-width:500px)
+{
+
+.sel button{
+    height: 30px;
+    border-radius: 3px;
+}
+.opt button{
+    height:30px;
+    border-radius: 3px;
+}
+.green button{
+    height:30px;
+    border-radius: 3px;
+}
+}
+   
+    

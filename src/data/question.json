@@ -1,0 +1,207 @@
+{
+"History":
+{
+"title":"History",
+    "questions":[
+    {
+      "questionText": "The beneficiaries of Asokas donations in the region of Barabar Hill were__??",
+      "options": ["Buddhists", "Ajivikas", "Svetambar Jains", "Digambar Jains"],
+      "correctOption": ["Ajivikas"]
+    },
+    {
+      "questionText": "Who among the following was the author of Abhidhamma treatise Kathavatthu?",
+      "options": ["Mah-a kassapa", "Mahinda", "Milinda", "Moggaliputta Tissa"],
+      "correctOption": ["Milinda"]
+    },
+    {
+    "questionText": "At which among the following sites of Indus Valley Civilization, the rows of distinctive fire altars with provision of ritual bathing have been found ?",
+      "options": ["Mohen-jo-daro", "Harappa", "Kalibangan", "Lothal"],
+      "correctOption": ["Kalibangan"]
+    }
+  ]
+},
+"Aptitude":
+{
+"title":"Aptitude",
+    "questions":[
+    {
+      "questionText": "A train running at the speed of 60 km/hr crosses a pole in 9 seconds. What is the length of the train?",
+      "options": ["120 metres", "180 metres", "324 metres", "150 metres"],
+      "correctOption": ["150 metres"]
+    },
+    {
+      "questionText": "A train 125 m long passes a man, running at 5 km/hr in the same direction in which the train is going, in 10 seconds. The speed of the train is:",
+      "options": ["45 km/hr", "50 km/hr", "54 km/hr", "55 km/hr"],
+      "correctOption": ["55 km/hr","54 km/hr"]
+    },
+    {
+        "questionText": "A train running at the speed of 60 km/hr crosses a pole in 9 seconds. What is the length of the train?",
+        "options": ["120 metres", "180 metres", "324 metres", "150 metres"],
+        "correctOption": ["150 metres"]
+      },
+      {
+        "questionText": "A train 125 m long passes a man, running at 5 km/hr in the same direction in which the train is going, in 10 seconds. The speed of the train is:",
+        "options": ["45 km/hr", "50 km/hr", "54 km/hr", "55 km/hr"],
+        "correctOption": ["55 km/hr","54 km/hr"]
+      },
+      {
+        "questionText": "A train running at the speed of 60 km/hr crosses a pole in 9 seconds. What is the length of the train?",
+        "options": ["120 metres", "180 metres", "324 metres", "150 metres"],
+        "correctOption": ["150 metres"]
+      },
+      {
+        "questionText": "A train 125 m long passes a man, running at 5 km/hr in the same direction in which the train is going, in 10 seconds. The speed of the train is:",
+        "options": ["45 km/hr", "50 km/hr", "54 km/hr", "55 km/hr"],
+        "correctOption": ["55 km/hr","54 km/hr"]
+      },
+      {
+        "questionText": "A train running at the speed of 60 km/hr crosses a pole in 9 seconds. What is the length of the train?",
+        "options": ["120 metres", "180 metres", "324 metres", "150 metres"],
+        "correctOption": ["150 metres"]
+      },
+      {
+        "questionText": "A train 125 m long passes a man, running at 5 km/hr in the same direction in which the train is going, in 10 seconds. The speed of the train is:",
+        "options": ["45 km/hr", "50 km/hr", "54 km/hr", "55 km/hr"],
+        "correctOption": ["55 km/hr","54 km/hr"]
+      }
+  ]
+},
+ "General":
+{
+"title":"General Knowledge",
+    "questions":[
+    {
+      "questionText": "A train running at the speed of 60 km/hr crosses a pole in 9 seconds. What is the length of the train?",
+      "options": ["120 metres", "180 metres", "324 metres", "150 metres"],
+      "correctOption": ["150 metres"]
+    },
+    {
+      "questionText": "A train 125 m long passes a man, running at 5 km/hr in the same direction in which the train is going, in 10 seconds. The speed of the train is:",
+      "options": ["45 km/hr", "50 km/hr", "54 km/hr", "55 km/hr"],
+      "correctOption": ["55 km/hr","54 km/hr"]
+    },
+    {
+        "questionText": "A train running at the speed of 60 km/hr crosses a pole in 9 seconds. What is the length of the train?",
+        "options": ["120 metres", "180 metres", "324 metres", "150 metres"],
+        "correctOption": ["150 metres"]
+      },
+      {
+        "questionText": "A train 125 m long passes a man, running at 5 km/hr in the same direction in which the train is going, in 10 seconds. The speed of the train is:",
+        "options": ["45 km/hr", "50 km/hr", "54 km/hr", "55 km/hr"],
+        "correctOption": ["55 km/hr","54 km/hr"]
+      },
+      {
+        "questionText": "A train running at the speed of 60 km/hr crosses a pole in 9 seconds. What is the length of the train?",
+        "options": ["120 metres", "180 metres", "324 metres", "150 metres"],
+        "correctOption": ["150 metres"]
+      },
+      {
+        "questionText": "A train 125 m long passes a man, running at 5 km/hr in the same direction in which the train is going, in 10 seconds. The speed of the train is:",
+        "options": ["45 km/hr", "50 km/hr", "54 km/hr", "55 km/hr"],
+        "correctOption": ["55 km/hr","54 km/hr"]
+      },
+      {
+        "questionText": "A train running at the speed of 60 km/hr crosses a pole in 9 seconds. What is the length of the train?",
+        "options": ["120 metres", "180 metres", "324 metres", "150 metres"],
+        "correctOption": ["150 metres"]
+      },
+      {
+        "questionText": "A train 125 m long passes a man, running at 5 km/hr in the same direction in which the train is going, in 10 seconds. The speed of the train is:",
+        "options": ["45 km/hr", "50 km/hr", "54 km/hr", "55 km/hr"],
+        "correctOption": ["55 km/hr","54 km/hr"]
+      }
+  ]
+},
+"Biology":
+{
+"title":"Biology",
+    "questions":[
+    {
+      "questionText": "A train running at the speed of 60 km/hr crosses a pole in 9 seconds. What is the length of the train?",
+      "options": ["120 metres", "180 metres", "324 metres", "150 metres"],
+      "correctOption": ["150 metres"]
+    },
+    {
+      "questionText": "A train 125 m long passes a man, running at 5 km/hr in the same direction in which the train is going, in 10 seconds. The speed of the train is:",
+      "options": ["45 km/hr", "50 km/hr", "54 km/hr", "55 km/hr"],
+      "correctOption": ["55 km/hr","54 km/hr"]
+    },
+    {
+        "questionText": "A train running at the speed of 60 km/hr crosses a pole in 9 seconds. What is the length of the train?",
+        "options": ["120 metres", "180 metres", "324 metres", "150 metres"],
+        "correctOption": ["150 metres"]
+      },
+      {
+        "questionText": "A train 125 m long passes a man, running at 5 km/hr in the same direction in which the train is going, in 10 seconds. The speed of the train is:",
+        "options": ["45 km/hr", "50 km/hr", "54 km/hr", "55 km/hr"],
+        "correctOption": ["55 km/hr","54 km/hr"]
+      },
+      {
+        "questionText": "A train running at the speed of 60 km/hr crosses a pole in 9 seconds. What is the length of the train?",
+        "options": ["120 metres", "180 metres", "324 metres", "150 metres"],
+        "correctOption": ["150 metres"]
+      },
+      {
+        "questionText": "A train 125 m long passes a man, running at 5 km/hr in the same direction in which the train is going, in 10 seconds. The speed of the train is:",
+        "options": ["45 km/hr", "50 km/hr", "54 km/hr", "55 km/hr"],
+        "correctOption": ["55 km/hr","54 km/hr"]
+      },
+      {
+        "questionText": "A train running at the speed of 60 km/hr crosses a pole in 9 seconds. What is the length of the train?",
+        "options": ["120 metres", "180 metres", "324 metres", "150 metres"],
+        "correctOption": ["150 metres"]
+      },
+      {
+        "questionText": "A train 125 m long passes a man, running at 5 km/hr in the same direction in which the train is going, in 10 seconds. The speed of the train is:",
+        "options": ["45 km/hr", "50 km/hr", "54 km/hr", "55 km/hr"],
+        "correctOption": ["55 km/hr","54 km/hr"]
+      }
+  ]
+},
+"Physics":
+{
+"title":"Physics",
+    "questions":[
+    {
+      "questionText": "A train running at the speed of 60 km/hr crosses a pole in 9 seconds. What is the length of the train?",
+      "options": ["120 metres", "180 metres", "324 metres", "150 metres"],
+      "correctOption": ["150 metres"]
+    },
+    {
+      "questionText": "A train 125 m long passes a man, running at 5 km/hr in the same direction in which the train is going, in 10 seconds. The speed of the train is:",
+      "options": ["45 km/hr", "50 km/hr", "54 km/hr", "55 km/hr"],
+      "correctOption": ["55 km/hr","54 km/hr"]
+    },
+    {
+        "questionText": "A train running at the speed of 60 km/hr crosses a pole in 9 seconds. What is the length of the train?",
+        "options": ["120 metres", "180 metres", "324 metres", "150 metres"],
+        "correctOption": ["150 metres"]
+      },
+      {
+        "questionText": "A train 125 m long passes a man, running at 5 km/hr in the same direction in which the train is going, in 10 seconds. The speed of the train is:",
+        "options": ["45 km/hr", "50 km/hr", "54 km/hr", "55 km/hr"],
+        "correctOption": ["55 km/hr","54 km/hr"]
+      },
+      {
+        "questionText": "A train running at the speed of 60 km/hr crosses a pole in 9 seconds. What is the length of the train?",
+        "options": ["120 metres", "180 metres", "324 metres", "150 metres"],
+        "correctOption": ["150 metres"]
+      },
+      {
+        "questionText": "A train 125 m long passes a man, running at 5 km/hr in the same direction in which the train is going, in 10 seconds. The speed of the train is:",
+        "options": ["45 km/hr", "50 km/hr", "54 km/hr", "55 km/hr"],
+        "correctOption": ["55 km/hr","54 km/hr"]
+      },
+      {
+        "questionText": "A train running at the speed of 60 km/hr crosses a pole in 9 seconds. What is the length of the train?",
+        "options": ["120 metres", "180 metres", "324 metres", "150 metres"],
+        "correctOption": ["150 metres"]
+      },
+      {
+        "questionText": "A train 125 m long passes a man, running at 5 km/hr in the same direction in which the train is going, in 10 seconds. The speed of the train is:",
+        "options": ["45 km/hr", "50 km/hr", "54 km/hr", "55 km/hr"],
+        "correctOption": ["55 km/hr","54 km/hr"]
+      }
+  ]
+}
+}

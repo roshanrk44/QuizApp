@@ -1,0 +1,20 @@
+.sel-cont{
+text-align: center;
+margin-top: 100px;
+}
+.opt{
+display: flex;
+justify-content: center;
+}
+.opt select{
+width: 400px;
+margin-top: 20px;
+height: 30px;
+border-radius: 5px;
+}
+@media(max-width: 650px) {
+    .opt select{
+    width: 300px;
+    
+    }
+}

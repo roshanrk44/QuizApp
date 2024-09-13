@@ -1,0 +1,141 @@
+.quiz{
+display: flex;
+justify-content: center;
+}
+.container{
+width: 450px; 
+padding: 20px;
+line-height: 12px;
+margin-top: 30px;
+text-align: center;
+background-color: #ffbe80;
+border: black solid 2px;
+border-radius: 20px;
+}
+.container p{
+line-height: 20px;
+font-size: large;
+}
+.option button{
+width: 70%;
+height: 45px;
+margin: 10px;
+font-size: 18px;
+background-color:aliceblue;
+cursor: pointer;
+border-radius: 5px;
+}
+.option button:hover{
+background-color: rgb(145, 217, 215);
+}
+.select button{
+    width: 70%;
+    height: 45px;
+    margin: 10px;
+    font-size: 18px;
+    background-color: rgba(59, 148, 150, 0.417);
+    cursor: pointer;
+    border-radius: 5px;
+}
+.clear-response{
+display: flex;
+justify-content: right;
+margin-top: 10px;
+}
+.clear-response button{
+background-color: #4360FD;
+border-radius: 20px;
+height: 30px;
+cursor: pointer;
+color: white;
+}
+.prev-none{
+display: none;
+}
+.pre-div{
+display: flex;
+justify-content: end;
+width: 100%;
+}
+.nex-div{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+.next{
+    margin-top: 30px;
+    width: 90px;
+    height: 45px;
+    color: aliceblue;
+    font-size: 18px;
+    cursor: pointer;
+    border-radius: 10px;
+    background-color: #4360FD;
+
+}
+.prev{
+    margin-top: 30px;
+    width: 90px;
+    height: 45px;
+    color: aliceblue;
+    font-size: 18px;
+    cursor: pointer;
+    border-radius: 10px;
+    background-color: #4360FD;
+}
+@media(max-width:650px)
+{
+.container{
+width: 380px;
+}
+.select button{
+    height: 35px;
+    border-radius: 4px;
+}
+.option button{
+    height:35px;
+    border-radius: 4px;
+}
+.clear-response button{
+    width: 120px;
+    font-size: small;
+}
+.next{
+    width: 80px;
+    height: 40px;
+    border-radius: 8px;
+    }
+    .prev{
+    width: 80px;
+    height: 40px;
+    border-radius: 8px;
+    }
+}
+@media(max-width:500px)
+{
+.container{
+width: 330px;
+}
+.select button{
+    height: 30px;
+    border-radius: 3px;
+}
+.option button{
+    height:30px;
+    border-radius: 3px;
+}
+.clear-response button{
+    width: 115px;
+    font-size: smaller;
+}
+.next{
+width: 70px;
+height: 35px;
+border-radius: 8px;
+}
+.prev{
+width: 70px;
+height: 35px;
+border-radius: 8px;
+}
+}
